@@ -14,6 +14,7 @@ EPAS - Employee Performance Appraisal System is an online system that has the ca
     -Generates appraisal reports
    
 Login Interface
+
 ![image](https://github.com/user-attachments/assets/28c68887-c1c6-4ee1-a35c-347f6fda3428)
 
 
