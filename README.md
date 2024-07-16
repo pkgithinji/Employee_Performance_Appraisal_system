@@ -27,6 +27,6 @@ Sample Report
 
 
 Setting of Objectives
-![image](https://github.com/user-attachments/assets/c606c23c-e5ae-420b-9319-439c87bae658)
+
 
 
