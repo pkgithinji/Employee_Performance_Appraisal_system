@@ -13,7 +13,13 @@ EPAS - Employee Performance Appraisal System is an online system that has the ca
     -Creates common HR Performance Metrics
     -Generates appraisal reports
    
+Login Interface
+![image](https://github.com/user-attachments/assets/28c68887-c1c6-4ee1-a35c-347f6fda3428)
 
-![image](https://github.com/user-attachments/assets/681f41a6-f4ce-4690-b088-25123719b56e)
 
-![image](https://github.com/user-attachments/assets/635f5537-fb5a-44b9-85bc-60e0cda93f01)
+![image](https://github.com/user-attachments/assets/7d93d851-0149-473d-ad82-ac193ab43319)
+
+Sample Report
+![image](https://github.com/user-attachments/assets/834beb72-c529-44ac-ba16-c80db661891f)
+
+
