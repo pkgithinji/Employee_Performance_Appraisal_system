@@ -17,6 +17,9 @@ Login Interface
 
 ![image](https://github.com/user-attachments/assets/28c68887-c1c6-4ee1-a35c-347f6fda3428)
 
+Creating Users from List of Employees
+![image](https://github.com/user-attachments/assets/d708b2e0-ea54-4b6f-95ef-1dc3ba755077)
+
 
 HR Dashboard
 
@@ -26,7 +29,9 @@ Sample Report
 ![image](https://github.com/user-attachments/assets/834beb72-c529-44ac-ba16-c80db661891f)
 
 
-Setting of Objectives
+**Setting of Objectives**
+
+![image](https://github.com/user-attachments/assets/79dcab24-84b7-4b97-80ea-60a73544a78c)
 
 
 
