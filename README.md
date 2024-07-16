@@ -18,9 +18,15 @@ Login Interface
 ![image](https://github.com/user-attachments/assets/28c68887-c1c6-4ee1-a35c-347f6fda3428)
 
 
+HR Dashboard
+
 ![image](https://github.com/user-attachments/assets/7d93d851-0149-473d-ad82-ac193ab43319)
 
 Sample Report
 ![image](https://github.com/user-attachments/assets/834beb72-c529-44ac-ba16-c80db661891f)
+
+
+Setting of Objectives
+![image](https://github.com/user-attachments/assets/c606c23c-e5ae-420b-9319-439c87bae658)
 
 
